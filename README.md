@@ -4,7 +4,7 @@ This project explores **personal finance behaviors and budgeting insights** usin
 It highlights income, expenses, savings, and financial patterns across different groups, with a focus on identifying budgeting challenges and opportunities for improvement.  
 
 ---
- 
+     
 ## 📊 Project Overview
 - **Objective:** Understand how people manage income, expenses, and savings.  
 - **Tools Used:** Power BI, DAX, Data Modeling  
